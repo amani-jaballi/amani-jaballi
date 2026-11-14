@@ -7,15 +7,14 @@
 - I'm an IT student passionate about software development and building practical, user-focused applications.
 I enjoy exploring new technologies, solving problems, and continuously improving my development skills.
 
--🎓IT Student at ISET Kélibia.
--💻Interested in Full-Stack and Software Development.
--🚀Always eager to learn and take on new challenges.
--🎯Looking forward to professional opportunities and new experiences
+- 🎓IT Student at ISET Kélibia.
+- 💻Interested in Full-Stack and Software Development.
+- 🚀Always eager to learn and take on new challenges.
+- 🎯Looking forward to professional opportunities and new experiences
 
 ## 🛠️ Technologies
 
-JavaScript · React · Java · Python
-PHP · MySQL · Flutter ·Dart · Kotlin. Git
+Flutter ·Dart · Kotlin. React · Java · Python . Symfony . Angular .PHP · MySQL · Git
 
 ## 🌌 Featured Projects
 
