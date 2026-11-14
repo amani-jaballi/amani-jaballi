@@ -33,10 +33,9 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 - An interactive 3D furniture visualization application 
 - Technologies: Unity · Blender · Firebase
 
-💪FitLife
-
-- A fitness application designed to support users in their fitness journey.
-- Technologies: Flutter · Dart · Firebase · Firestore
+🪞 MindMirror
+- A personal development application designed to help users explore self-awareness and reflect on their thoughts and emotions.
+- Technologies: React.Firebase
 
 🌿GlowHabit
 
